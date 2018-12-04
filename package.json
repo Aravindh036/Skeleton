@@ -1,0 +1,15 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "description": "skeleton for client side engine",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EXORT",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.27.0"
+  }
+}
